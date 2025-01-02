@@ -4,3 +4,4 @@
 #### This is an `<h4>` header
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header, which is the smallest
+![Image of Scubatocat](https://octodex.github.com/images/scubatocat.png)
