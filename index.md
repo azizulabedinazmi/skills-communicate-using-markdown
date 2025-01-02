@@ -5,3 +5,17 @@
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header, which is the smallest
 ![Image of Scubatocat](https://octodex.github.com/images/scubatocat.png)
+
+Example 1
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Example 2
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
